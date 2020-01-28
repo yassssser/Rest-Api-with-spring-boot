@@ -9,4 +9,4 @@
 - Open Feign Rest Client
 - Hystrix Dashboard
 
-(./schema.png)
+![Schema for the app](./schema.PNG)
